@@ -1,0 +1,15 @@
+class prueba {
+ int a = 8 + 7 * 12 ;
+ int b = a ;
+ a = 9 ;
+ if ( a > 8 ) {
+ int s = 5 ;
+ }
+ else { 
+ int h = 6 ;
+ }
+
+ if ( a == 8 ) {
+ int o = 5 ;
+ }
+}
